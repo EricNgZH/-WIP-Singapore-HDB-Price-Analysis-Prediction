@@ -15,7 +15,6 @@ Project Motivation:
 ... 
 
 Project Context:
-- EDA
-- rent price prediction
-- rent price analysis
+- rent price prediction (by overall trend & categorical)
+- rent price analysis (by overall trend & categorical)
 - Dashboard 
