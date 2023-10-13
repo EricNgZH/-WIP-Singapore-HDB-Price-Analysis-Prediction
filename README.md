@@ -9,7 +9,7 @@ Python
 R 
 Tableau 
 
-Link: https://www.kaggle.com/datasets/mikelll/singapore-housing-price-20172022/code
+Link: https://www.kaggle.com/datasets/mikelll/singapore-housing-price-20172022/data
 
 Project Motivation: 
 ... 
